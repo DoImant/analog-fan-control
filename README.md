@@ -18,8 +18,11 @@ With this setting method, the fan starts to run from around 36°C. As the temper
 First test setup on a breadboard
 ![Breadboard setup](https://github.com/DoImant/Stuff/blob/main/Analog_fan_control/lueftersteuerung-analog.jpg?raw=true)
 
-The PCB
-![PCB](https://github.com/DoImant/Stuff/blob/main/Analog_fan_control/PCB-3D-2.png?raw=true)
+PCB (front)
+![PCB front](https://github.com/DoImant/Stuff/blob/main/Analog_fan_control/PCB-3D-2.png?raw=true)
+
+PCB back
+![PCB back](https://github.com/DoImant/Stuff/blob/main/Analog_fan_control/PCB-3D-2-back.png?raw=true)
 
 ## circuit diagram
 [circuit diagram](https://github.com/DoImant/Stuff/blob/main/Analog_fan_control/Luefter-Steuerung-Analog-V2.pdf)
